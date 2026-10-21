@@ -1,0 +1,27 @@
+{
+  "operatingMode": "demo",
+  "ocrConfidenceThreshold": 86,
+  "aiProvider": {
+    "provider": "Google Gemini",
+    "model": "gemini-3.5-flash"
+  },
+  "adapterSettings": {
+    "stanford": {
+      "enabled": true
+    },
+    "mit": {
+      "enabled": true
+    },
+    "coursera": {
+      "enabled": true
+    },
+    "google_cloud": {
+      "enabled": true
+    },
+    "aws": {
+      "enabled": true
+    }
+  },
+  "lastSaved": "2026-10-21T10:50:18.097Z",
+  "savedBy": "p.sheshu124@gmail.com"
+}
